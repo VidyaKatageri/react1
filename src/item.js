@@ -5,6 +5,7 @@ const Myitem  = () =>{
             <h1> Item List </h1>
             <p> sdf sdf sdf sdf sdf sd</p>
             <p> sdf sdf sdf sdf sdf sdf sd</p>
+            <p> Vidya is with Shrini</p>
         </div>
     )
 }
